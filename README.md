@@ -1,2 +1,0 @@
-# test
-speech recognization python
